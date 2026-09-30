@@ -1,0 +1,5 @@
+Products: Chair, Sofa.
+Concrete Products: ModernChair, VictorianChair, ModernSofa, VictorianSofa.
+Abstract Factory: FurnitureFactory.
+Concrete Factories: ModernFurnitureFactory, VictorianFurnitureFactory.
+Client:

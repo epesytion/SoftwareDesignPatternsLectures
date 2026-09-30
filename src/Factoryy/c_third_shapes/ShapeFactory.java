@@ -1,4 +1,4 @@
-package Factoryy.third_shapes;
+package Factoryy.c_third_shapes;
 //Here we just combined concrete factories to one factory using if-elsse
 public class ShapeFactory {
     public Shape_product getShape(String shapeType){

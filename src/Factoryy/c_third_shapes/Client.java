@@ -1,6 +1,4 @@
-package Factoryy.third_shapes;
-
-import java.awt.*;
+package Factoryy.c_third_shapes;
 
 public class Client {
     static void main(String[] args) {

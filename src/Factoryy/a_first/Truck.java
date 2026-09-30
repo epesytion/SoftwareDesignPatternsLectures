@@ -1,4 +1,4 @@
-package Factoryy.first;
+package Factoryy.a_first;
 
 public class Truck implements Transport{
     @Override

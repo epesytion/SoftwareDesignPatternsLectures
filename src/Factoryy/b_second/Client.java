@@ -1,4 +1,4 @@
-package Factoryy.second;
+package Factoryy.b_second;
 // The final step: getting result by a client class
 
 public class Client {
